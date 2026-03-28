@@ -97,3 +97,4 @@ Dataset placeholder text
 Recording base entry
 Writing generic log
 Activity tracking sample
+Logging repeated structure
