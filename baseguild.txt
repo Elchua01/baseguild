@@ -44,3 +44,4 @@ Writing dummy con
 Tracking synthetic data
 Recording sample log
 Placeholder dataset entry
+Writing simple structure
