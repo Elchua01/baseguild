@@ -12,3 +12,4 @@ Logging sample update
 Dataset entry added
 Simulated user log
 Writing base test entry
+Placeholder for interaction
