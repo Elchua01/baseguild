@@ -94,3 +94,4 @@ Recording synthetic activity
 Writing simple dataset
 Logging entry continues
 Dataset placeholder text
+Recording base entry
